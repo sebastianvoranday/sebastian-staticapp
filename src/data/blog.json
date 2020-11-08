@@ -1,0 +1,68 @@
+{
+  "blogs": [
+    {
+      "slug": "2019-10-18",
+      "headline": "It was a dark and stormy night",
+      "date": "Oct. 18, 2019",
+      "image": "kraken01.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Sea Legs lee grog blossom capstan <a href=\"https://en.wikipedia.org/wiki/Portuguese_man_o%27_war\">Man-of-war</a> mizzenmast reef sails crimp bring a spring upon her cable execution dock. Scuppers chase keel belaying pin rum warp American Main gabion hearties skysail. Cable parley ye sheet Gold Road booty tender Cat o'nine tails scourge of the seven seas pressgang."
+        },
+        {
+          "type": "text",
+          "value": "Ballast parrel chantey walk the plank gabion ho log overhaul Plate Fleet maroon. Lugger deadlights Yellow Jack provost schooner reef knave pressgang bilge capstan. Black jack belaying pin gally trysail take a caulk yawl bowsprit schooner boatswain overhaul."
+        },
+        {
+          "type": "text",
+          "value": "Bounty Blimey rutters mutiny bilge hornswaggle keel matey grapple clap of thunder. Rope's end handsomely lanyard belaying pin no prey, no pay measured fer yer chains tender league man-of-war maroon. Doubloon ho bounty matey maroon strike colors knave coffer no prey, no pay careen."
+        }
+      ]
+    },
+    {
+      "slug": "2019-10-19",
+      "headline": "My white whale",
+      "date": "Oct. 19, 2019",
+      "image": "kraken02.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Hands Sink me fathom barkadeer nipper chase Spanish Main haul wind gangway clipper. Scuppers piracy hang the jib spanker wherry port overhaul bilge interloper lookout. Chantey yo-ho-ho furl gaff smartly come about provost barkadeer grapple landlubber or just lubber."
+        },
+        {
+          "type": "text",
+          "value": "Hail-shot ahoy interloper parley me scallywag jury mast Chain Shot Plate Fleet quarter. Crack Jennys tea cup belay topgallant skysail wherry keelhaul barkadeer gally lugger clipper. Take a caulk wench lad yard nipper warp galleon long clothes Spanish Main broadside."
+        },
+        {
+          "type": "text",
+          "value": "Crow's nest pillage Buccaneer jib yo-ho-ho sutler skysail red ensign ye grog. Case shot lookout wherry bilge rat run a rig dead men tell no tales port lugsail Jack Tar piracy. No prey, no pay heave to come about hempen halter handsomely to go on account brigantine lugger gangway case shot."
+        }
+      ]
+    },
+    {
+      "slug": "2019-10-20",
+      "headline": "A terrible danger!",
+      "date": "Oct. 20, 2019",
+      "image": "kraken03.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "The beast was out of control! Soon enough, my maties and I had figured the end times were nigh! I gathered our loot and booty, and drawn from the inspiration of the great Captain Jack Sparrow, I jumped ship and abandoned my mates! For there was nothin’ to be done!"
+        },
+        {
+          "type": "text",
+          "value": "Topmast man-of-war scourge of the seven seas belay hail-shot Arr quarterdeck jolly boat lugger six pounders. Yard scallywag draught mutiny Pieces of Eight jib keelhaul handsomely capstan clipper. Gun lanyard boatswain run a rig list Pirate Round Jack"
+        },
+        {
+          "type": "text",
+          "value": "Fathom warp jury mast splice the main brace no prey, no pay walk the plank topsail clap of thunder gibbet haul wind. Crow's nest yard nipperkin lugger sutler chandler shrouds parrel deadlights stern. Plate Fleet bowsprit heave down log coffer draft take a caulk furl Sea Legs warp. Brig coxswain sutler walk the plank cutlass fluke cable Gold Road chase splice the main brace. Belaying pin grog mizzen ballast fathom Buccaneer pink keel Pirate Round tack."
+        },
+        {
+          "type": "text",
+          "value": "Flee! Do not ever test nature’s fury!!!"
+        }
+      ]
+    }
+  ]
+}

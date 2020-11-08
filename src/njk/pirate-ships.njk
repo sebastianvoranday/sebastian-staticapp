@@ -1,9 +1,11 @@
 {% extends '_templates/base.njk' %}
 
+{% block page_title %}Pirate Ships{% endblock %}
+
 {% block content %}
 <article class="container">
   <h1>Ships of the Golden Age of pirates</h1>
-  <p>Intro text here.</p>
+  <h3>Check out some of the most legendary ships in all of the seven seas! Some are real, and some just haven't been discovered yet...</h3>
   <div class="row">
     {% for ship in pirates.ships %}
     <div class="col-sm-6 col-lg-4">

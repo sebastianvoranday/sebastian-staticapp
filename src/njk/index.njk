@@ -5,10 +5,25 @@
 {% block content %}
 <div class="container">
   <div class="row">
-    <div class="col-md-8 offset-md-3">
+    <div class="col-md-8 offset-md-2">
       <h1>A pirate's life is for me</h1>
-      <p>Hempen halter mizzenmast deadlights gaff pillage starboard jack lee Blimey draught. Man-of-war piracy black jack sutler Yellow Jack keel provost overhaul execution dock rigging. Log quarterdeck dead men tell no tales red ensign gibbet grog blossom bilge Nelsons folly code of conduct gunwalls.</p>
+      <p>Below you will find a very lucrative sample of some of my most famous blog entries. Pirates come from all over to even get a glimpse of my journal, and here you can get a sample of three all for free (just watch the advertisements!)<b> To read more, subscribe to the weekly log for the very small fee of $75 a week!</b> (excludes taxes and fees).</p>
     </div>
+  </div>
+  <div class="row">
+      {% for blog in blog.blogs %}
+    <div class="col-md-8 offset-md-2">
+      <div class="col-sm-8 col-md-9 col-lg-10">
+        <div class="card mb-4 bg-info border-warning">
+          <div class="card-body">
+            <h5 class="card-title">{{ blog.headline }}
+            <h6 class="card-date">{{ blog.date }}
+            <a href="blog/{{ blog.slug }}.html" class="link" target="_blank">Read Blog</a>
+          </div>
+        </div>
+      </div>
+    </div>
+      {% endfor %}
   </div>
 </div>
 {% endblock %}
